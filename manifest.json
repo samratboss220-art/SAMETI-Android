@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "description": "SAMETI Notes App",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "SAMETI-Android",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "SAMETI-Android",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "id": "/SAMETI-Android/"
+}
